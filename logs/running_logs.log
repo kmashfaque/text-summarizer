@@ -1,1 +1,83 @@
 [2023-06-05 22:55:33,600: INFO: main:Welcome to our custom logging]
+[2023-06-06 20:28:43,361: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-06 20:29:30,649: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-06 20:29:30,656: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-06 20:29:30,677: INFO: common:created directory at: artifacts]
+[2023-06-06 20:29:30,681: INFO: common:created directory at: artifacts/data_ingestion,]
+[2023-06-06 20:32:04,121: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-06 20:32:04,135: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-06 20:32:04,161: INFO: common:created directory at: artifacts]
+[2023-06-06 20:32:04,161: INFO: common:created directory at: artifacts/data_ingestion]
+[2023-06-06 20:32:05,118: INFO: 3387065142:artifacts/data_ingestion/data.zip download! with following info: 
+Server: GitHub.com
+Date: Tue, 06 Jun 2023 14:32:05 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"16a9c093f80eb4b7f4caa44851761f51"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=PJz0BIXqJ%2BTPdr50ZRPlKpoAla3g4rK%2FNJFqEJpBD47VlGSb37AFptNNZuVFZIzgYzshjtlySmAwIe1Puff%2FV6RtGLRwUrtOh8ZI0CU8mRdqIt%2BEQ9c8lQ4jDs5YcElbiEqlHVtnS5nppaSX3C4feJhNKEzcs9tOS4kw9X9U57cRNIeAAO1uOW4cm4AjmBrMdpbohTyprhLkOlc%2B8Av%2B%2FZdqczWFdG5XafM5gSKDLgY%2FvMEm2LIkMcmOMk78zQ%2BZpXSaiae8tHiUCPkj7XnSLA%3D%3D--9r4qkQBg2zbDnhhs--uEGzwdVp5GenA5ZEL6sXCA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1800443273.1686061924; Path=/; Domain=github.com; Expires=Thu, 06 Jun 2024 14:32:04 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Thu, 06 Jun 2024 14:32:04 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FD47:599C:2ADC7FB:2D8BECC:647F4364
+connection: close
+
+]
+[2023-06-06 20:48:08,556: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-06 20:48:08,564: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-06 20:48:08,572: INFO: common:created directory at: artifacts]
+[2023-06-06 20:48:08,572: INFO: common:created directory at: artifacts/data_ingestion]
+[2023-06-06 20:48:10,199: INFO: 3387065142:artifacts/data_ingestion/data.zip download! with following info: 
+Server: GitHub.com
+Date: Tue, 06 Jun 2023 14:48:09 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"a425f36fc3e4f29e27353a3b990094a0"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=H5swhArT%2FNdKP5g0QJU2kkCVKIc9ce73j0Mk7hs1SseGajbFbhcuMtwysg%2F6dpiI91cpS1bH9z%2FIkw%2FdLGm5uECtpzf1SYTHWlTD9U9SK5ET2HV93J9q1xAfhgQvlsRaHmkv1LJxL7tvQlNcfB0zeJMfidPYtUabYYSnxr1%2FYXeDOAkuv4dGaZ7HsKd9C12I5CCr6Fs3hoYXsValRE39uu%2BeAtmTImfwSOFPv6a%2BSLPw3tg6JubCc%2FTmpIkSbiAYR4RP%2F0L0nrS2YZzDSAMN6g%3D%3D--plerl0%2FfJGKRTnb9--JPd%2F%2F3Pu%2F%2FZrk2UX%2B0wb1Q%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.986396094.1686062889; Path=/; Domain=github.com; Expires=Thu, 06 Jun 2024 14:48:09 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Thu, 06 Jun 2024 14:48:09 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: FDA3:40A7:1A0E43B:1BA0C7B:647F4729
+connection: close
+
+]
+[2023-06-06 20:50:53,556: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-06 20:50:53,559: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-06 20:50:53,562: INFO: common:created directory at: artifacts]
+[2023-06-06 20:50:53,564: INFO: common:created directory at: artifacts/data_ingestion]
+[2023-06-06 20:50:53,565: INFO: 3387065142:File already exists of size: ~ 137 KB]
+[2023-06-06 20:54:10,400: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-06 20:54:10,407: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-06 20:54:10,410: INFO: common:created directory at: artifacts]
+[2023-06-06 20:54:10,412: INFO: common:created directory at: artifacts/data_ingestion]
+[2023-06-06 20:54:10,413: INFO: 410880631:File already exists of size: ~ 137 KB]
+[2023-06-06 20:54:54,659: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-06 20:54:54,663: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-06 20:54:54,665: INFO: common:created directory at: artifacts]
+[2023-06-06 20:54:54,667: INFO: common:created directory at: artifacts/data_ingestion]
+[2023-06-06 20:54:54,668: INFO: 4249142789:File already exists of size: ~ 137 KB]
+[2023-06-06 20:57:39,163: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-06 20:57:39,167: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-06 20:57:39,167: INFO: common:created directory at: artifacts]
+[2023-06-06 20:57:39,171: INFO: common:created directory at: artifacts/data_ingestion]
+[2023-06-06 20:57:39,172: INFO: 3610841010:File already exists of size: ~ 137 KB]
+[2023-06-06 21:04:06,183: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-06 21:04:06,186: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-06 21:04:06,188: INFO: common:created directory at: artifacts]
+[2023-06-06 21:04:06,190: INFO: common:created directory at: artifacts/data_ingestion]
+[2023-06-06 21:04:06,191: INFO: 1947515856:File already exists of size: ~ 137 KB]
