@@ -268,3 +268,15 @@ zipfile.BadZipFile: File is not a zip file
 [2023-06-08 21:09:45,856: INFO: main:>>>>>>> stage Data validation Stage completed <<<<<<<
 
 x================================x]
+[2023-06-08 21:24:31,101: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-08 21:24:31,136: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-08 21:24:31,145: INFO: common:created directory at: artifacts]
+[2023-06-08 21:24:31,150: INFO: common:created directory at: artifacts/data_transformation]
+[2023-06-08 21:35:05,742: INFO: main:>>>>>>> stage Data transformation Stage started <<<<<<<]
+[2023-06-08 21:35:05,742: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-08 21:35:05,742: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-08 21:35:05,742: INFO: common:created directory at: artifacts]
+[2023-06-08 21:35:05,742: INFO: common:created directory at: artifacts/data_transformation]
+[2023-06-08 21:35:16,169: INFO: main:>>>>>>> stage Data transformation Stage completed <<<<<<<
+
+x================================x]
