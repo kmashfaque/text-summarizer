@@ -234,3 +234,37 @@ Traceback (most recent call last):
   File "C:\Users\HP\Anaconda3\envs\textS\lib\zipfile.py", line 1336, in _RealGetContents
     raise BadZipFile("File is not a zip file")
 zipfile.BadZipFile: File is not a zip file
+[2023-06-08 20:46:13,101: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-08 20:46:13,243: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-08 20:46:13,247: INFO: common:created directory at: artifacts]
+[2023-06-08 20:52:23,144: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-08 20:52:23,145: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-08 20:52:23,150: INFO: common:created directory at: artifacts]
+[2023-06-08 20:52:23,150: INFO: common:created directory at: artifacts/data_validation]
+[2023-06-08 21:09:17,176: INFO: main:>>>>>>> stage Data Ingestion Stage started <<<<<<<]
+[2023-06-08 21:09:17,184: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-08 21:09:17,189: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-08 21:09:17,189: INFO: common:created directory at: artifacts]
+[2023-06-08 21:09:17,190: INFO: common:created directory at: artifacts/data_ingestion]
+[2023-06-08 21:09:17,191: INFO: data_ingestion:File already exists of size: ~ 137 KB]
+[2023-06-08 21:09:17,242: ERROR: main:File is not a zip file]
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    data_ingestion.main()
+  File "c:\users\hp\desktop\text sumarizer\src\textSummarizer\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.extract_zip_file()
+  File "c:\users\hp\desktop\text sumarizer\src\textSummarizer\components\data_ingestion.py", line 36, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, 'r') as zip_ref:
+  File "C:\Users\HP\Anaconda3\envs\textS\lib\zipfile.py", line 1269, in __init__
+    self._RealGetContents()
+  File "C:\Users\HP\Anaconda3\envs\textS\lib\zipfile.py", line 1336, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2023-06-08 21:09:45,831: INFO: main:>>>>>>> stage Data validation Stage started <<<<<<<]
+[2023-06-08 21:09:45,841: INFO: common:yaml file: config\config.yaml loaded successfully]
+[2023-06-08 21:09:45,849: INFO: common:yaml file: params.yaml loaded successfully]
+[2023-06-08 21:09:45,849: INFO: common:created directory at: artifacts]
+[2023-06-08 21:09:45,849: INFO: common:created directory at: artifacts/data_validation]
+[2023-06-08 21:09:45,856: INFO: main:>>>>>>> stage Data validation Stage completed <<<<<<<
+
+x================================x]
